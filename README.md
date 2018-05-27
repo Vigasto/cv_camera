@@ -1,3 +1,6 @@
+This fork is intended to optimize OpenCV usage in Odroid XU4 configuration
+
+
 ROS OpenCV camera driver
 ========================
 It is very easy to capture video device if we use cv::VideoCapture of OpenCV.
